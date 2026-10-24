@@ -1,0 +1,5 @@
+flowchart TD
+    U["Navegador"] -->|HTTPS| A["Next.js<br/>Cloud Run"]
+    C["Cloud Scheduler"] -->|verificación diaria| A
+    A -->|conector de Cloud SQL| D[("PostgreSQL 17<br/>Cloud SQL")]
+    A -->|perfiles públicos| S["API de Steam"]

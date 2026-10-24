@@ -1,0 +1,2 @@
+flowchart TD
+    P["Contraseña"] --> N["NFKC"] --> H["HMAC-SHA256<br/>pepper"] --> S["scrypt<br/>N=2¹⁷ r=8 p=1<br/>salt de 16 bytes"] --> DB[("Hash")]
