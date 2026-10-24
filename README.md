@@ -43,7 +43,7 @@ Página web para encontrar personas de tu país con quienes formar una Steam Fam
 
 ## Código fuente
 
-El código fuente es privado, pero si gustas colaborar puedes enviarme un mensaje para darte acceso de lectura. La arquitectura y las medidas de seguridad están en [este documento](docs/arquitectura-y-seguridad.md).
+El código fuente es privado, pero si gustas colaborar puedes enviarme un mensaje para darte acceso de lectura. La arquitectura y las medidas de seguridad están en [este doc](docs/arquitectura-y-seguridad.md).
 
 ## Autor
 
