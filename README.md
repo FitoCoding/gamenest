@@ -1,6 +1,6 @@
 <div align="center">
 
-# Condensity
+# Condensity (Ex GameNest)
 
 ### Encuentra con quién formar tu Steam Family
 
