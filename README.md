@@ -1,10 +1,10 @@
 <div align="center">
 
-# GameNest
+# Condensity
 
 ### Encuentra con quién formar tu Steam Family
 
-[![Ir a la página](https://img.shields.io/badge/Ir_a_la_p%C3%A1gina-5C7E10?style=for-the-badge&logo=steam&logoColor=white)](https://gamenest-191704652758.southamerica-east1.run.app)
+[![Ir a la página](https://img.shields.io/badge/Ir_a_la_p%C3%A1gina-5C7E10?style=for-the-badge&logo=steam&logoColor=white)](https://condensity.cl)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

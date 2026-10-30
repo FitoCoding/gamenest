@@ -27,7 +27,7 @@ El pepper está fuera de la base, además los hashes se recalculan solos al inic
 ### Gestión de Contraseñas filtradas
 
 <p align="center">
-  <img src="diagramas/contrasenas-filtradas.png" width="606" alt="GameNest envía a Have I Been Pwned los 5 primeros caracteres del SHA-1, recibe los sufijos posibles y los compara localmente"/>
+  <img src="diagramas/contrasenas-filtradas.png" width="606" alt="Condensity envía a Have I Been Pwned los 5 primeros caracteres del SHA-1, recibe los sufijos posibles y los compara localmente"/>
 </p>
 
 ### Métodos de seguridad aplicados
