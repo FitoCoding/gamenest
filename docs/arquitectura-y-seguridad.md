@@ -5,7 +5,7 @@
 ## Arquitectura
 
 <p align="center">
-  <img src="diagramas/arquitectura.png" width="425" alt="El navegador y Cloud Scheduler llegan a Next.js en Cloud Run, que se conecta a PostgreSQL 17 en Cloud SQL y a la API de Steam"/>
+  <img src="diagramas/arquitectura.png" width="425" alt="El navegador y Cloud Scheduler llegan por un balanceador de carga a Next.js en Cloud Run, que se conecta a PostgreSQL 17 en Cloud SQL y a la API de Steam"/>
 </p>
 
 <p align="center">
